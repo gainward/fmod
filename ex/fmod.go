@@ -8,7 +8,7 @@ package fmod_ex
 import "C"
 
 import (
-  "github.com/MobRulesGames/fmod/base"
+  "github.com/gainward/fmod/base"
   "unsafe"
 )
 
