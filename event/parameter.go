@@ -6,7 +6,7 @@ import "C"
 
 import (
   "errors"
-  "github.com/MobRulesGames/fmod/base"
+  "github.com/gainward/fmod/base"
 )
 
 type Param struct {

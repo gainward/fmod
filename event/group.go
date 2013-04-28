@@ -8,7 +8,7 @@ import (
   "errors"
   "unsafe"
   "runtime"
-  "github.com/MobRulesGames/fmod/base"
+  "github.com/gainward/fmod/base"
 )
 
 type Group struct {

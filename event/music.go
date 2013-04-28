@@ -7,7 +7,7 @@ import "C"
 import (
   "unsafe"
   "errors"
-  "github.com/MobRulesGames/fmod/base"
+  "github.com/gainward/fmod/base"
 )
 
 type MusicSystem struct {
